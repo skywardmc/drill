@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "cc1b38339e7cab1a937858edf857f3bc7268b8669d43aed69cb183a02b75deca"
+hash = "2726e798874cc5f0bb7199b1e44a76f582eb14f34c4c4c07ca48bd8df64f1e1b"
 metafile = true
 
 [[files]]
@@ -217,12 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2f6b4b5e651bfe492bc9779c310445f77a8e3a42e4ad1c4eb7111a1c8239784d"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "7a233669a931a7959711b83c9afd7784360aa9050b9e2c84d9ebed27981f38b6"
+hash = "10f8e0f570cdd25d708f5f0d34e42b16851ce63849bde496d9fd63c97a032639"
 metafile = true
 
 [[files]]
