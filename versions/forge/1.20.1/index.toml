@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "89d0c1bfb7614a20f6658fc78b7e468ea9dd250a66eafafa112a080b29437389"
+hash = "6c10f3718ec253b0a68486f94316503560e3a95c589c99bea8b7a74694358b06"
 metafile = true
 
 [[files]]
