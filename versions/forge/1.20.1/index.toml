@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "a283de74fc823e9ac93f259130f2573fbfba140c0ae405b9a6a45faab97a7c3e"
+hash = "ce7b0eb63fd647a0a445e7b706d3e8149b9fde69a9c68f61e9bc711c60150711"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f51ac52cb26674f0bd62d9abbf23a8f74024d1f227ab77fa5b1d3735b5e1ce6f"
+hash = "e28c67be4d5873afc664afd1ce7136d2d7c7fba0d62b3dcdd14193ba608ee21d"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "6c10f3718ec253b0a68486f94316503560e3a95c589c99bea8b7a74694358b06"
+hash = "89d0c1bfb7614a20f6658fc78b7e468ea9dd250a66eafafa112a080b29437389"
 metafile = true
 
 [[files]]
