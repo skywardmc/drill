@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib"
-filename = "yet-another-config-lib-forge-3.1.0+1.20.jar"
+filename = "yet-another-config-lib-forge-3.1.1+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/RPlKFmas/yet-another-config-lib-forge-3.1.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/RpevhOax/yet-another-config-lib-forge-3.1.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "6018b129f7fc90625d2ec5398d8d6609d804cae2"
+hash = "e64eb7f3d7e69d9e002f1375232a8ce421bade06"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "RPlKFmas"
+version = "RpevhOax"

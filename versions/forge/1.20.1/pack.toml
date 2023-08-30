@@ -1,12 +1,12 @@
 name = "Drilled-Additive"
 author = "UltraStorm"
-version = "1.18.4+1.20.1.forge"
+version = "1.18.5+1.20.1.forge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ec6a9262f4b7d710fe7aab53c8c2bed2925f32e7c7e3f907d9bb089bdb78715e"
+hash = "6f87fccc732f636f718d0007ed4b79a8a32e7f610724b018183ef50fc896f941"
 
 [versions]
 forge = "47.1.3"
