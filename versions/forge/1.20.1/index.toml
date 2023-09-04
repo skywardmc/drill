@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "2dc9d93a59c9281065b7f4c67cb1590044034a1af3ed9e06ef5b3eda1f625d42"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "1de5761854ff549405888ae0442861555452d899fb85eb1a75d15f0108593e45"
 
@@ -117,13 +121,18 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5d79957cc89a36aa873abf9fc3fcf074f040fa0d6784358ba501530505de040d"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "554f6af5f5005e004f8a0f7ca5ce74e84202a3f14b378a34f2e8342f2fc7890d"
+hash = "fe541a41fb2b63f746bc77a99ad60f1536daa162a95426196c7eae78bc2a6516"
 metafile = true
 
 [[files]]
@@ -142,8 +151,8 @@ hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+file = "mods/embeddium.pw.toml"
+hash = "88837028f616578019db7bb52bbf08cb4ba52873b37bf1e3ee7476b29b2c9129"
 metafile = true
 
 [[files]]
@@ -198,12 +207,17 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "3412adb94869ed227fbdce44827fae15caae3be71a727e557fd8bd47e6115f74"
+hash = "19ead28d60430d6b485b8d4fe4c73f7aeee4fd87abf997f7ae40f105bdf41ad1"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
 metafile = true
 
 [[files]]
@@ -233,12 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "2ee05c095aa31539854f380e731f5173cdab1adda503a6b16e56d1a65674acec"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "25d6f35a409f98b57d6e9003a9a0be5b2479fa08c9ed24d20da6eb29b3ccfffe"
+hash = "8f9f3b23ac87652f37dc9bd20144c6fc5d025bb49b10a594453e49b2f03abdcf"
 metafile = true
 
 [[files]]
