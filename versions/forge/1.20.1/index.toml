@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "fe541a41fb2b63f746bc77a99ad60f1536daa162a95426196c7eae78bc2a6516"
+hash = "1d4048164e9a9b551affdd15a2d4f9750d6a9241ed8dcb10062d797234d4f20d"
 metafile = true
 
 [[files]]
@@ -151,8 +151,13 @@ hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
-hash = "88837028f616578019db7bb52bbf08cb4ba52873b37bf1e3ee7476b29b2c9129"
+hash = "d1a0fb6cd065ad6c076919f8748ab7280ac87a2ecde079423f61c6f1b9cf515b"
 metafile = true
 
 [[files]]
@@ -251,8 +256,8 @@ hash = "8f9f3b23ac87652f37dc9bd20144c6fc5d025bb49b10a594453e49b2f03abdcf"
 metafile = true
 
 [[files]]
-file = "mods/textrues-rubidium-options.pw.toml"
-hash = "6c10f3718ec253b0a68486f94316503560e3a95c589c99bea8b7a74694358b06"
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "17807ae81bd683e751beda009594a1d488f04eec594fe41d9b256f707226eb6d"
 metafile = true
 
 [[files]]

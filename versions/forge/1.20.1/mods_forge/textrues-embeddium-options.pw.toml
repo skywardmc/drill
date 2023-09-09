@@ -1,0 +1,13 @@
+name = "TexTrue's Embeddium Options"
+filename = "textrues_embeddium_options-0.1.0+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1tndFDa/versions/5EjVEY2Z/textrues_embeddium_options-0.1.0%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "bd3ccb9ed0176cdc552b1b12afb80dce87b37656"
+
+[update]
+[update.modrinth]
+mod-id = "S1tndFDa"
+version = "5EjVEY2Z"
