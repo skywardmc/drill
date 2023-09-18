@@ -6,7 +6,7 @@ hash = "2dc9d93a59c9281065b7f4c67cb1590044034a1af3ed9e06ef5b3eda1f625d42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1de5761854ff549405888ae0442861555452d899fb85eb1a75d15f0108593e45"
+hash = "4b97d28aa1e2d2ece89ea2c85c66eb67f6fd71fb8d6ff4cc915371c794d6a022"
 
 [[files]]
 file = "config/puzzle.json"
@@ -43,6 +43,10 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -132,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "1d4048164e9a9b551affdd15a2d4f9750d6a9241ed8dcb10062d797234d4f20d"
+hash = "118a8a5cebafb20e3c809fdb093738160798f0314ec3f6fabf08a602aa9f4df0"
 metafile = true
 
 [[files]]
@@ -142,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
 metafile = true
 
 [[files]]
@@ -157,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d1a0fb6cd065ad6c076919f8748ab7280ac87a2ecde079423f61c6f1b9cf515b"
+hash = "87c0b4ab352b5a4e20e875ed9646e39eab67870ad9a4799111f4470b8d09c98c"
 metafile = true
 
 [[files]]
@@ -167,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a866489de5651106c4f745bf9357346b8f65101b07e8d6ac3a52c7dc432b6787"
+hash = "7800b9202d6fc72c5972f5e984073dd46d5ea07f3ea16b1c22d85b773c24e5ad"
 metafile = true
 
 [[files]]
@@ -197,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
+hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]
@@ -217,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
+hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
 metafile = true
 
 [[files]]
@@ -227,7 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/lilac.pw.toml"
+hash = "589bff25807b43912f721b2ff793c4ca1f0d47adf7e95dc843fd923a454220a0"
 metafile = true
 
 [[files]]
@@ -242,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 metafile = true
 
 [[files]]
@@ -282,15 +291,15 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c19bc87fa42de31c7732c70cc4cbb03807248dad0137f7553d15873889617fc4"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "b216023831fd1e7b385bff7f19fa43fcafe24f50bd573215ae1c0e9d0ddb7634"
+hash = "f1f74f07924a5b0eb57e7c662c2e3f8c56d50eaee0dc2cb4cb40985af8eb9cf4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "c660f09f4cfd7413f901f72f89986dfb75197fa24038964ce1e47f4b5e376325"
+hash = "312a98939d9d2a64f6e5e5119cdd2de7b16088a9f98dc8c70bbc10f6077c8263"
 metafile = true
