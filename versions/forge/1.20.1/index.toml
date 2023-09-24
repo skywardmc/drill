@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5d79957cc89a36aa873abf9fc3fcf074f040fa0d6784358ba501530505de040d"
+hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "ed4fa07012beaf387d0e2fd2cf4f609b962bfa98d7196c40ac71934bad8ccae7"
+hash = "f10e968a77b29ed454319c2476dbbfa6702d4b9271b49210f61e6210d49c817a"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "307fad0fbc4628e41f1a28b0d044e75d0e5a721d560c1cc0bc2e93bf489b6916"
+hash = "e36da074b63dd450ebd8a4c79748a20dee63941ac3556ed867f10d2e9c2f12fb"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "63e85d55180cda29aa8a1d17503ad7526a07145a77550940118be7b50cef39f8"
+hash = "30359333e8a1ec44c021dcd4e3d5bbca04a503b98af34dde41313d7e14d5a523"
 metafile = true
 
 [[files]]
