@@ -1,13 +1,13 @@
 name = "Sinytra Connector"
-filename = "Connector-1.0.0-beta.16+1.20.1-full.jar"
+filename = "Connector-1.0.0-beta.17+1.20.1-full.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u58R1TMW/versions/UoBtOeEO/Connector-1.0.0-beta.16%2B1.20.1-full.jar"
+url = "https://cdn.modrinth.com/data/u58R1TMW/versions/Hxdn3Zfz/Connector-1.0.0-beta.17%2B1.20.1-full.jar"
 hash-format = "sha1"
-hash = "e4059f5a7d1aff0da0dff7ba8e19750f845c1ad7"
+hash = "e4ccd269e8bfdcc2035a6aa666d98c5f0b8f6c8f"
 
 [update]
 [update.modrinth]
 mod-id = "u58R1TMW"
-version = "UoBtOeEO"
+version = "Hxdn3Zfz"
