@@ -11,3 +11,8 @@ hash = "406ad9995cd1ab803e0001f80a85498105b4d488"
 [update.modrinth]
 mod-id = "GchcoXML"
 version = "6xfXhsvf"
+
+[option]
+optional = true
+default = false
+description = "This mod should only be enabled if you use shaders. Otherwise, instability and rendering bugs occur."

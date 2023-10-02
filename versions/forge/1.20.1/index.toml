@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "727dd8174d9a306b9a052831a617c98fbf1376a6b20206c15ef90f268a52d467"
+hash = "2b0bf4b56cbf996ec9f899cb053ff02e3fee32c854a90e4370da842b52de8692"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
+hash = "2ea000cf1f9f75edc2d1c0862d77d08fc0bbc72182b9fb2b89aa210daeba6431"
 metafile = true
 
 [[files]]
