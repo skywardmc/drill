@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/SkywardMC/forged-additive">
+  <a href="https://github.com/SkywardMC/drill">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/additive/additive_textlogo_256h.png" alt="Logo" height="75">
   </a>
   <br />
@@ -7,14 +7,14 @@
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline (this time on forge)
   </p>
-  <a href="https://modrinth.com/modpack/forged-additive"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+  <a href="https://modrinth.com/modpack/drill"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
 Additive is a simple **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more. This pack is built from my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline). Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
 
-Forged Additive is a port of Additive to Forge (eventually NeoForge)
+Drill is a port of Additive to Forge (eventually NeoForge)
 
 ## 📥 Installation guide
 
@@ -24,13 +24,13 @@ If you would like to install the modpack, go to this page on [the website](https
 
 ### 🔥 Performance
 
-This modpack is based on [Adrenaline](https://modrinth.com/project/adrenaline), which is designed to significantly improve the performance of your game by using various optimization mods and configurations. It mainly involves faster startup times and a very high increase in framerates. Additive has a few extra mods for specific use-cases as well, such as [FastQuit](https://modrinth.com/project/fastquit) which allows you to immediately quit worlds and save them in the background.
+This modpack is based on [Adrenaline](https://modrinth.com/project/adrenaline), which is designed to significantly improve the performance of your game by using various optimization mods and configurations. It mainly involves faster startup times and a very high increase in framerates. It is also based on [Additive](https://modrinth.com/project/additive). Additive has a few extra mods for specific use-cases as well, such as [FastQuit](https://modrinth.com/project/fastquit) which allows you to immediately quit worlds and save them in the background.
 
 I won't compare the performance to other modpacks - mainly because doing accurate benchmarks is quite hard to do with a game like this where there are so many factors to consider. It can also depend on your hardware. I would suggest manually doing a benchmark and see which modpack is best for you.
 
 ### 🔍 OptiFine features
 
-Forged Additive is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
+Drill is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
 
 - Large performance boost
 - OptiFine resource pack features
