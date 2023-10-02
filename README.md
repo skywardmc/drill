@@ -1,24 +1,20 @@
 <div align="center">
-  <a href="https://github.com/intergrav/Additive">
+  <a href="https://github.com/SkywardMC/forged-additive">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/additive/additive_textlogo_256h.png" alt="Logo" height="75">
   </a>
   <br />
   <br />
   <p align="center">
-    Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline
-    <br />
-    <a href="https://github.com/intergrav/Additive/wiki">Explore the wiki</a>
-    ·
-    <a href="https://github.com/intergrav/Additive/issues">Report Bugs</a>
-    ·
-    <a href="https://github.com/intergrav/Additive/issues">Request Features</a>
+    Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline (this time on forge)
   </p>
-  <a href="https://modrinth.com/modpack/additive"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+  <a href="https://modrinth.com/modpack/forged-additive"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
 Additive is a simple **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more. This pack is built from my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline). Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
+
+Forged Additive is a port of Additive to Forge (eventually NeoForge)
 
 ## 📥 Installation guide
 
@@ -34,14 +30,14 @@ I won't compare the performance to other modpacks - mainly because doing accurat
 
 ### 🔍 OptiFine features
 
-Additive is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
+Forged Additive is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
 
 - Large performance boost
 - OptiFine resource pack features
 - Shader packs
 - Dynamic lighting
 - Better grass and snow
-- OF donator capes (and [free capes](https://github.com/intergrav/Additive/wiki/Supporter-cape))
+<!-- - OF donator capes (and [free capes](https://github.com/intergrav/Additive/wiki/Supporter-cape)) -->
 - Many other key OptiFine features
 
 To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
@@ -64,9 +60,9 @@ For players with very low-spec devices, I recommend using my other project, [Adr
 
 ## 🔄️ Updates quickly
 
-My goal is to keep Additive up-to-date with the latest Minecraft releases, providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time and motivation.
+My goal is to keep Additive up-to-date with the latest Minecraft releases (that have Connector), providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time.
 
-**➡️ Note:** This does not apply to snapshots most of the time. I do not bother as they can sometimes require lots of maintenance and come out too quickly. If I recall correctly, [Simply Optimized](https://modrinth.com/modpack/sop) sometimes has updates for snapshots, so feel free to check that out if you really need them.
+**➡️ Note:** This does not apply to snapshots most of the time. I do not bother as they can sometimes require lots of maintenance and come out too quickly, and Connector doesn't update to them either. If I recall correctly, [Simply Optimized](https://modrinth.com/modpack/sop) sometimes has updates for snapshots, so feel free to check that out if you really need them.
 
 ## ⚙️ How it works
 
