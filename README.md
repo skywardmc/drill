@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/SkywardMC/drill">
-    <img src="https://raw.githubusercontent.com/skywardmc/art/main/drill/textlogo_256h.png" alt="Logo" height="75">
+    <img src="https://raw.githubusercontent.com/skywardmc/art/main/drill/textlogo_256h.png" alt="Logo" height="100">
   </a>
   <br />
   <br />
