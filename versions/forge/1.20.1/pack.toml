@@ -1,12 +1,12 @@
-name = "Forged-Additive"
+name = "Drill"
 author = "UltraStorm + MenacingPerson"
-version = "1.20.0+1.20.1.forge"
+version = "1.20.0.0+1.20.1.forge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a20678b3abe6c31021b6ef26140c3c7a6138fc42f7538146cc6b12398c96c06b"
+hash = "6320c45d52ad0ae9f54863e46c708be4cff5ac3a8e5856d6d3c984d5bd493f6e"
 
 [versions]
 forge = "47.1.3"

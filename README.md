@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://github.com/SkywardMC/drill">
-    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/additive/additive_textlogo_256h.png" alt="Logo" height="75">
+    <img src="https://raw.githubusercontent.com/skywardmc/art/main/drill/textlogo_256h.png" alt="Logo" height="75">
   </a>
   <br />
   <br />
   <p align="center">
-    Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline (this time on forge)
+    Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline and Additive (this time on forge)
   </p>
   <a href="https://modrinth.com/modpack/drill"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
-Additive is a simple **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more. This pack is built from my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline). Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
+Drill is a simple (yet complex) **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more. This pack is built from another project, [Additive](https://modrinth.com/modpack/additive). Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
 
 Drill is a port of Additive to Forge (eventually NeoForge)
 
@@ -30,14 +30,14 @@ I won't compare the performance to other modpacks - mainly because doing accurat
 
 ### 🔍 OptiFine features
 
-Drill is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
+Additive and Drill are designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
 
 - Large performance boost
 - OptiFine resource pack features
 - Shader packs
 - Dynamic lighting
 - Better grass and snow
-<!-- - OF donator capes (and [free capes](https://github.com/intergrav/Additive/wiki/Supporter-cape)) -->
+- OF donator capes (and [free capes](https://github.com/intergrav/Additive/wiki/Supporter-cape))
 - Many other key OptiFine features
 
 To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
@@ -54,9 +54,9 @@ For a full list of currently supported features, see this [wiki page](https://gi
 
 ## 🛡️ Open-source
 
-At its core, Additive is entirely composed of open-source mods, ensuring that you have the assurance of being able to view their source code and even contribute to them. We strongly encourage you to show your support for the creators and contributors of these mods, as this project would not be possible without their invaluable contributions.
+At its core, Additive and Drill are entirely composed of open-source mods, ensuring that you have the assurance of being able to view their source code and even contribute to them. We strongly encourage you to show your support for the creators and contributors of these mods, as this project would not be possible without their invaluable contributions.
 
-Furthermore, the Packwiz project for Additive is also publicly available on our [Git repository](https://github.com/skywardmc/additive). This means that you can easily track and observe every change made to the project, report issues or request new features through our [issue tracker](https://github.com/skywardmc/additive/issues), or effortlessly create your own forks of the project. This commitment empowers you to actively engage with Additive's development and contribute to its ongoing improvement.
+Furthermore, the Packwiz project for Drill is also publicly available on our [Git repository](https://github.com/skywardmc/drill). This means that you can easily track and observe every change made to the project, report issues or request new features through our [issue tracker](https://github.com/skywardmc/drill/issues), or effortlessly create your own forks of the project. This commitment empowers you to actively engage with Additive's development and contribute to its ongoing improvement.
 
 ## ✅ Compatibility
 
@@ -66,13 +66,13 @@ For players with very low-spec devices, I recommend using my other project, [Adr
 
 ## 🔄️ Updates quickly
 
-My goal is to keep Additive up-to-date with the latest Minecraft releases (that have Connector), providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time.
+My goal is to keep Drill up-to-date with the latest Minecraft releases (that have Connector), providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time.
 
 **➡️ Note:** This does not apply to snapshots most of the time. I do not bother as they can sometimes require lots of maintenance and come out too quickly, and Connector doesn't update to them either. If I recall correctly, [Simply Optimized](https://modrinth.com/modpack/sop) sometimes has updates for snapshots, so feel free to check that out if you really need them.
 
 ## ⚙️ How it works
 
-Additive utilizes a variety of optimization mods that are designed to work seamlessly together. Many of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective. It's important to note that, compared to some other modpacks, Additive may be more aggressive in its optimizations and can sometimes result in instability. However, these instances are rare and the overall result will be an improvement in performance compared to other modpacks. To replicate the features of OptiFine, Additive uses mods such as LambDynamicLights, LambdaBetterGrass, Zoomify, Iris, CIT resewn, and many others.
+Additive and Drill utilize a variety of optimization mods that are designed to work seamlessly together. Many of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective. It's important to note that, compared to some other modpacks, Additive may be more aggressive in its optimizations and can sometimes result in instability. However, these instances are rare and the overall result will be an improvement in performance compared to other modpacks. To replicate the features of OptiFine, Additive and Drill use mods such as LambDynamicLights, LambdaBetterGrass, Zoomify, Iris, CIT resewn, and many others.
 
 ## 🐛 Reporting Issues
 
@@ -83,7 +83,7 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 For a few frequently asked questions, please visit the [wiki](https://github.com/intergrav/Additive/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
 
 ## 🍉 Sponsor
-Need a fast, reliable Minecraft server? Use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
+Need a fast, reliable Minecraft server? Use the code `devin` for 25% off your first month of any server from Bisect Hosting, supporting him in the process. Click this banner for more information. You can also setup his server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
 
