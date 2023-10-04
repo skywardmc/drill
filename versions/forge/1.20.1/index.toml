@@ -265,6 +265,11 @@ hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "095dae1292ba5902b5e2abce6b85ef18d92e0131bce67fdb03b59b6b9fef848c"
+metafile = true
+
+[[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
 hash = "f76a3b5b2df7cc7707b1b0de586af8175072ecb757a96c5b5aac2b4046b7335a"
 metafile = true
