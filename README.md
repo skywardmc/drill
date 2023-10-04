@@ -12,9 +12,9 @@
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
-Drill is a simple (yet complex) **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more. This pack is built from another project, [Additive](https://modrinth.com/modpack/additive). Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
+Drill is a simple (yet complex) forge **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more.
 
-Drill is a port of Additive to Forge (eventually NeoForge)
+Need improved performance or features? Use the better version of this pack, [Additive](https://modrinth.com/modpack/additive), built for modern loaders such as Fabric and Quilt with much wider compatibility and higher framerates. Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
 
 ## 📥 Installation guide
 
@@ -24,7 +24,7 @@ If you would like to install the modpack, go to this page on [the website](https
 
 ### 🔥 Performance
 
-This modpack is based on [Adrenaline](https://modrinth.com/project/adrenaline), which is designed to significantly improve the performance of your game by using various optimization mods and configurations. It mainly involves faster startup times and a very high increase in framerates. It is also based on [Additive](https://modrinth.com/project/additive). Additive has a few extra mods for specific use-cases as well, such as [FastQuit](https://modrinth.com/project/fastquit) which allows you to immediately quit worlds and save them in the background.
+This modpack is based on [Adrenaline](https://modrinth.com/project/adrenaline), which is designed to significantly improve the performance of your game by using various optimization mods and configurations. It mainly involves faster startup times and a very high increase in framerates. Drill has a few extra mods for specific use-cases as well, such as [FastQuit](https://modrinth.com/project/fastquit) which allows you to immediately quit worlds and save them in the background.
 
 I won't compare the performance to other modpacks - mainly because doing accurate benchmarks is quite hard to do with a game like this where there are so many factors to consider. It can also depend on your hardware. I would suggest manually doing a benchmark and see which modpack is best for you.
 
@@ -44,7 +44,7 @@ To see the full list of OptiFine features, check out [this wiki page](https://gi
 
 ### 💡 Other features
 
-Additive contains a very small amount of non-OptiFine features - mainly being small fixes, such as [EmuNO](https://modrinth.com/mod/emuno) and [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux). There's also [World Host](https://modrinth.com/mod/world-host) included, which lets you host your world to the public by simply clicking "Open Externally" in the pause menu. [Borderless Mining](https://modrinth.com/mod/borderless-mining) is tucked away for convenience, disabled by default, but you can enable it in the mod menu. For the full list, check out the [Extra features](https://github.com/intergrav/Additive/wiki/Extra-features) wiki page.
+Additive and Drill contain a very small amount of non-OptiFine features - mainly being small fixes, such as [EmuNO](https://modrinth.com/mod/emuno) and [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux). There's also [World Host](https://modrinth.com/mod/world-host) included, which lets you host your world to the public by simply clicking "Open Externally" in the pause menu. [Borderless Mining](https://modrinth.com/mod/borderless-mining) is tucked away for convenience, disabled by default, but you can enable it in the mod menu. For the full list, check out the [Extra features](https://github.com/intergrav/Additive/wiki/Extra-features) wiki page.
 
 ## ❓ Why this over OptiFine?
 
@@ -62,13 +62,13 @@ Furthermore, the Packwiz project for Drill is also publicly available on our [Gi
 
 Additive is designed to be compatible with a wide range of devices, even those with low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac. Additionally, Additive is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric.
 
-For players with very low-spec devices, I recommend using my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline/), a modpack specifically designed for optimization. Unlike other modpacks that may include extra, non-essential mods, Adrenaline prioritizes performance over anything else, making it the ideal choice for limited hardware resources.
+For players with very low-spec devices, I recommend using [Adrenaline](https://modrinth.com/modpack/adrenaline/), a modpack specifically designed for optimization. Unlike other modpacks that may include extra, non-essential mods, Adrenaline prioritizes performance over anything else, making it the ideal choice for limited hardware resources.
 
 ## 🔄️ Updates quickly
 
 My goal is to keep Drill up-to-date with the latest Minecraft releases (that have Connector), providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time.
 
-**➡️ Note:** This does not apply to snapshots most of the time. I do not bother as they can sometimes require lots of maintenance and come out too quickly, and Connector doesn't update to them either. If I recall correctly, [Simply Optimized](https://modrinth.com/modpack/sop) sometimes has updates for snapshots, so feel free to check that out if you really need them.
+**➡️ Note:** This does not apply to snapshots. I do not bother as they can sometimes require lots of maintenance and come out too quickly, and Connector doesn't update to them either. If I recall correctly, [Simply Optimized](https://modrinth.com/modpack/sop) sometimes has updates for snapshots, so feel free to check that out if you really need them.
 
 ## ⚙️ How it works
 
@@ -76,15 +76,15 @@ Additive and Drill utilize a variety of optimization mods that are designed to w
 
 ## 🐛 Reporting Issues
 
-Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/intergrav/Additive/issues). Sometimes this may be an issue with Adrenaline and not Additive itself, so I will move the issue accordingly if needed.
+Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/skywardmc/drill/issues). Sometimes this may be an issue with Additive/Adrenaline and not Drill itself, so I will move the issue accordingly if needed.
 
 ## ❓ Frequently Asked Questions
 
-For a few frequently asked questions, please visit the [wiki](https://github.com/intergrav/Additive/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
+For a few frequently asked questions, please visit the [Additive wiki](https://github.com/intergrav/Additive/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
 
 ## 🍉 Sponsor
 Need a fast, reliable Minecraft server? Use the code `devin` for 25% off your first month of any server from Bisect Hosting, supporting him in the process. Click this banner for more information. You can also setup his server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
 
-> *This description was copied from the [Modrinth page](https://modrinth.com/modpack/additive). It may not be formatted correctly.*
+> *This description was copied from the [Modrinth page](https://modrinth.com/modpack/drill). It may not be formatted correctly.*
