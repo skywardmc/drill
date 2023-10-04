@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "2b0bf4b56cbf996ec9f899cb053ff02e3fee32c854a90e4370da842b52de8692"
+hash = "2284324685ac6afe22f833731a99a4413a6351fdedc36c4ea917afac0171c879"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "bcc7b4833c38b7d5ab5c1cf1e0158eb1633c9f162a5331585bc5a5943041fcfc"
+hash = "15519fa71ce872c052107f63d2b4429f0bf6fdc9dc2a8b09e1645cde1be0fcbf"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "52560eeb85bbc692f2eae3875e59121ccc001f49c5ef5b51cab03d8b5bec9bfb"
+hash = "f76a3b5b2df7cc7707b1b0de586af8175072ecb757a96c5b5aac2b4046b7335a"
 metafile = true
 
 [[files]]
