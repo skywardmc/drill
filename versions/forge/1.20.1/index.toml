@@ -280,6 +280,11 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/world-host.pw.toml"
+hash = "f242ef847b7d2a2fa79cfe538751e153f855c17be5bb50e025d81e5ade983d67"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "22c2a89925030790e8ff327977407190e9a8ec50d2d2b04404942a70d285f0a2"
 metafile = true
