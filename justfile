@@ -15,7 +15,7 @@ default:
 _batchcmd cmd loader:
     Get-ChildItem -Path versions\{{ loader }} -Directory | % { \
       Set-Location $_.FullName; \
-      Write-Host "running {{ cmd }} in $_.FullName"; \
+      Write-Host "running {{ cmd }} in $_"; \
       Invoke-Expression "{{ cmd }}"; \
       Pop-Location; \
     }
@@ -34,12 +34,12 @@ _batchcmd cmd loader:
 # all versions of <loader> will be exported as a modrinth modpack
 [linux]
 [macos]
-export loader: && (_batchcmd "packwiz modrinth export" loader)
+export loader: && (_batchcmd "packwiz modrinth export; mv *.mrpack ../../../.build/" loader)
     -mkdir -p .build/{{ loader }}
 
 # all versions of <loader> will be exported as a modrinth modpack
 [windows]
-export loader: && (_batchcmd "packwiz modrinth export" loader)
+export loader: && (_batchcmd "packwiz modrinth export; Move-Item -Path *.mrpack -Destination ../../../.build" loader)
     -New-Item -Type Directory -Path .build\{{ loader }}
 
 # all versions of <loader> will have pack.toml refreshed
