@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "69a75c86c71ad67fa24b8f06f8a4a542f58cbb50906adee62b5759211bfe6008"
+hash = "b533c58b244a1d5ba3899bc8f9077085c06f367e8b5644353be84e204636d5d7"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "24776fb699113fb099349c316db91147b542d35240def6036eb449f4d9774514"
+hash = "e0a446366759a2c5e22163c45e15a4c959b3b1c297f1c099ffe5d2519bcc595e"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "01ce10dd8242ac65403a71a3dd23c33676a73835cfd665b799e88db6fd85c42a"
+hash = "262738c00df7a1815729fde1a9527298d2c1b6dbb3e53465063147fa52ee9dc7"
 metafile = true
 
 [[files]]
