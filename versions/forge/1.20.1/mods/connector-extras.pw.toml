@@ -1,0 +1,13 @@
+name = "Connector Extras"
+filename = "ConnectorExtras-1.4.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FYpiwiBR/versions/bOKT1DOR/ConnectorExtras-1.4.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "00f811ce956511b9cfab876b3afd15766f9824e2"
+
+[update]
+[update.modrinth]
+mod-id = "FYpiwiBR"
+version = "bOKT1DOR"
