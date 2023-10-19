@@ -6,7 +6,7 @@ hash = "2dc9d93a59c9281065b7f4c67cb1590044034a1af3ed9e06ef5b3eda1f625d42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "40f4c54f08cdff63198d94dd48aa063ae32d27c454dc3feb5ed36befa355af1b"
+hash = "fb82e2417665dcc23c06be524e45269372e8f954cbfc433f373a727d774ff675"
 
 [[files]]
 file = "config/puzzle.json"
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "b5fcd82ab026ca001bf0cfe12876cea26fb80aa634a1641ff079da289c1caded"
+hash = "3990f6490ed84eadac2cb007f71a370e8f15c10fea2fc32d031bbe4a4917b6d1"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b533c58b244a1d5ba3899bc8f9077085c06f367e8b5644353be84e204636d5d7"
+hash = "03d33a32ce06757a695427e08a09495d342470cf1028d2fcd5eb082a62f67b61"
 metafile = true
 
 [[files]]
