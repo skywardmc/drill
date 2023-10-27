@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/connector_global_mod_aliases.json"
+hash = "8a58398ced7f64912deb4bdc2096dbf644451d251e0332acfcb8e5c1adeddd9c"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "2dc9d93a59c9281065b7f4c67cb1590044034a1af3ed9e06ef5b3eda1f625d42"
 
@@ -141,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "e9d843694c4b60ec30009d7127f242493a6c7afe639bd54e5d3b5979012c0bf7"
+hash = "94240627d0a20f1fcdb31c784626cca34bf78d32a5b12d20c874916f7cc7e60a"
 metafile = true
 
 [[files]]
@@ -211,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
@@ -221,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e0a446366759a2c5e22163c45e15a4c959b3b1c297f1c099ffe5d2519bcc595e"
+hash = "db60f4a2184f67ae9e54ba378c7a251b73df6dcb7852ae1fd8b9198f34c5a1aa"
 metafile = true
 
 [[files]]
