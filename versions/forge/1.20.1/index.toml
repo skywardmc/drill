@@ -5,10 +5,6 @@ file = "config/connector_global_mod_aliases.json"
 hash = "8a58398ced7f64912deb4bdc2096dbf644451d251e0332acfcb8e5c1adeddd9c"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "2dc9d93a59c9281065b7f4c67cb1590044034a1af3ed9e06ef5b3eda1f625d42"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "fb82e2417665dcc23c06be524e45269372e8f954cbfc433f373a727d774ff675"
 
@@ -116,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
-metafile = true
-
-[[files]]
-file = "mods/canary.pw.toml"
-hash = "1a060877e79455b31a20e165adb356a517c161eacf3ae503de2fa515e79dea0a"
 metafile = true
 
 [[files]]
@@ -234,13 +225,13 @@ hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+file = "mods/lazurite.pw.toml"
+hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
 metafile = true
 
 [[files]]
