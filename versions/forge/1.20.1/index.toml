@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "9a828921bd3198d1825ac128565e574f7b5cc42483951a1dde8c8ef52a585f77"
+hash = "6061aa113cf0a8eaa5844613960799f10d2bfc12801789fa50171bf5984c5cb9"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7df65dc51b6f723fe2c3bcb060510f89da8dbca4bb13292d48c9254b69972c96"
+hash = "8f092eb1e79c0cba82a38996191ae92406db4e120325b4838deba6b231cd0d90"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "5952e3c01bb5e84fcfe8b5f2721d77687ce90493f29ea017b58ef7a8c0e00516"
+hash = "30b4357201f670c9904b7dd301bcaf28046d57f02cbc4d6d72ec789e75ae1572"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bfbf0702a94ffb84a45158abccc21177e9ab4c094bad66b995bd7a7263425c84"
+hash = "ed810d6126283df7ca919ecdfaae8e78589230cfc7d6feed5ea7e7ab68138ae3"
 metafile = true
 
 [[files]]
@@ -261,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "4784b541326dacd7cd2875896cf0b3d6cf79fb0194dbca21d691b0f5083a8030"
+hash = "a4b1aca5e959bc7ecad268c61de62704c92ffa16087194f6f74eab868fd0bcd7"
 metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "f76a3b5b2df7cc7707b1b0de586af8175072ecb757a96c5b5aac2b4046b7335a"
+hash = "6d6f38ed97a83a65a42cedacef640faa54f00f04f3384a604911235c97d53020"
 metafile = true
 
 [[files]]
