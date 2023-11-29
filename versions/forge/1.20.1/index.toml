@@ -131,12 +131,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "926f7679c5861126e80d4606e79a303aac88e82a7be95eb1a265499ce9bf9ef5"
+hash = "eb6e048c2c950ece0d7cdec9f4d9d40f21eae84040120e11a2bec44e3df73c0e"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "6061aa113cf0a8eaa5844613960799f10d2bfc12801789fa50171bf5984c5cb9"
+hash = "cad8b79ef4002ed5e5cb5d9f51fbb76d09dcaf99205a0dfd26ed9b1b2649f4c3"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "8f092eb1e79c0cba82a38996191ae92406db4e120325b4838deba6b231cd0d90"
+hash = "a5175fe822a78dc54365b2e01dcf435cac158c3c6ab2ff3bedff823722f1cdb5"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "30b4357201f670c9904b7dd301bcaf28046d57f02cbc4d6d72ec789e75ae1572"
+hash = "2521455fe93051e30fe39b142477894373de36b2ace4eeb4a41d300aa11b27a0"
 metafile = true
 
 [[files]]
