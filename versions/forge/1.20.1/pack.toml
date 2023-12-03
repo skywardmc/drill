@@ -1,12 +1,12 @@
 name = "Drill"
 author = "UltraStorm + MenacingPerson"
-version = "0.2.0-1.21.1+1.20.1.forge"
+version = "0.2.1-1.22.0+1.20.1.forge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "db0dd8b0f0100a0172caa514314fa1beda4494453f8b932f07b588ed374fe9ce"
+hash = "c2c45ff5ae157c922ddcb61f419503a7012ff495e5cf5d8a4f94f379ca6171bc"
 
 [versions]
 forge = "47.1.3"
