@@ -1,0 +1,13 @@
+name = "World Host"
+filename = "world-host-0.4.8+1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2AIZDfYo/versions/MjbUwf6l/world-host-0.4.8%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "1a41cbaf538dfc3b45f768c21920abb5170a7691"
+
+[update]
+[update.modrinth]
+mod-id = "2AIZDfYo"
+version = "MjbUwf6l"
