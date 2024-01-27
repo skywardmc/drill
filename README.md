@@ -5,16 +5,21 @@
   <br />
   <br />
   <p align="center">
-    Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline and Additive (this time on forge)
+    Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline and Additive (this time on neoforge)
   </p>
   <a href="https://modrinth.com/modpack/drill"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
-Drill is a simple (yet complex) forge **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more.
+> **Warning**
+> This pack is very experimental! For improved performance and compatiblity, it is much recommended to use [Adrenaline](https://modrinth.com/modpack/adrenaline) or [Additive](https://modrinth.com/modpack/additive) over this pack. Those packs, unlike this one, are made for Fabric and Quilt. They have more performance improvements and update faster too.
+
+Drill is a simple (yet complex) neoforge **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more.
 
 Need improved performance or features? Use the better version of this pack, [Additive](https://modrinth.com/modpack/additive), built for modern loaders such as Fabric and Quilt with much wider compatibility and higher framerates. Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
+
+Want to use a simple neoforge performance pack? Use [Hammer](https://modrinth.com/modpack/hammer), the pack based on Adrenaline.
 
 ## 📥 Installation guide
 

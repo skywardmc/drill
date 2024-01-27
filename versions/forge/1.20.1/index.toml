@@ -6,7 +6,7 @@ hash = "8a58398ced7f64912deb4bdc2096dbf644451d251e0332acfcb8e5c1adeddd9c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f99afa5f7bd76474a40189e177d6ed6b5d0ff59708deebc066461fd347b42f4f"
+hash = "8cf6590bfd4fc5a5e88f5c48c9ef097af325bc37d3ca3356c785b41989c5113b"
 
 [[files]]
 file = "config/puzzle.json"
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "28316a07bf2e2682cdb1fe096c70c498dd1d871181d39cf2dce738781d1df09d"
+hash = "fed3e4c5fa358461ec2e660df915bc8a925fcba436dca7426ec8355ee5d504ee"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "71435c92604bbfd25ac0bc604b6ada0135a106a19f4c639e7806e6136fec9181"
+hash = "2f1b85545681321199513038f1520d0680d931e36baeb6f83055b4087dbaa564"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
+hash = "a56422457504a6bdabee7441b050124baab086ed3daf48420b3f44776b0561d5"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "816ba57b7ed88f40d8d516bec09e83a91cbc2d4ba9706767779f6859182a61c9"
+hash = "e5a37ad27c416466b2503a6bdc3a651b0d4b0efaa68e99935206c0ef10a900d4"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "ae66880f5857b0f87828aa22588991a6b50cc253429a212ec2655c8fdf9bdc38"
+hash = "29383a8d8b990fc78771fd992daedbfe8af1a43985df8d9554a262a109ce79ee"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "0e0f6b3047cdbfaf9add707ca6d6762c3aef6f4f3de5fdd855a99a23e79a55b3"
+hash = "8fb0e46b0189d77bb9b0813088fc6faf17e16822d82d6e1911632e56ec838eba"
 metafile = true
 
 [[files]]
@@ -250,12 +250,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0e7d0f763673558843e7b3c43be1f1e20fb6034a9d7ef37d1886f134a75eb2d7"
+hash = "6d6e3a22c78a334c6b6471b35839d2730caa47573ad4a3a6997c735ef58ad933"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "297ff81bb98223b7e589abe24c6ef7dca72f54503fd622476ea1945c0baac202"
+file = "mods/optigui.pw.toml"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
