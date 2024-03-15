@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/connector_global_mod_aliases.json"
-hash = "8a58398ced7f64912deb4bdc2096dbf644451d251e0332acfcb8e5c1adeddd9c"
+file = "config/connector.json"
+hash = "d619022556cc9c7d666ede212e92c9a88c909266835da9c7f9107ed5b8e76c4f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "fed3e4c5fa358461ec2e660df915bc8a925fcba436dca7426ec8355ee5d504ee"
+hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "2f1b85545681321199513038f1520d0680d931e36baeb6f83055b4087dbaa564"
+hash = "eb579d1e274aa9458acce982cd8de74dfaa63ee0bfd824c179694795008de971"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
+hash = "8a0e88c1e6c4fa8f0737d8f8ac818a9699bb2a5a540023a2fa09f191ccfb1e11"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a56422457504a6bdabee7441b050124baab086ed3daf48420b3f44776b0561d5"
+hash = "1a6d0711f27c72fd535fef344cfda555859fdfc59951c2bd25730308dbb4c8e5"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e5a37ad27c416466b2503a6bdc3a651b0d4b0efaa68e99935206c0ef10a900d4"
+hash = "e40c68ab526476761d742c4a200c9fb1afd94fd7a3c705bd5c60f1b5713f3c81"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "29383a8d8b990fc78771fd992daedbfe8af1a43985df8d9554a262a109ce79ee"
+hash = "23bb3fa2c4b36520f533ca44d440beead6e6b3366e301605874c097e8797dd26"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "8fb0e46b0189d77bb9b0813088fc6faf17e16822d82d6e1911632e56ec838eba"
+hash = "b157127a0394f1454fea877faccc69f2cca1c53417073b100e786eee7d7423ae"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazurite.pw.toml"
-hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
+hash = "03e5d86e69b73997b01943270844390ac341af08b1b91c0994715894db902cc5"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d6e3a22c78a334c6b6471b35839d2730caa47573ad4a3a6997c735ef58ad933"
+hash = "712ac79bb4012b906355269fa28ac92c1cae6bf37b43a4dcd1320f98a323b4b2"
 metafile = true
 
 [[files]]
@@ -265,12 +265,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "a4b1aca5e959bc7ecad268c61de62704c92ffa16087194f6f74eab868fd0bcd7"
+hash = "86a13c12755ef37944dc6182808eed7a1f82cd0bb41cfb390e3f2bd4ef29e20c"
 metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "6d6f38ed97a83a65a42cedacef640faa54f00f04f3384a604911235c97d53020"
+hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "22c2a89925030790e8ff327977407190e9a8ec50d2d2b04404942a70d285f0a2"
+hash = "3dabfca10eb4af5eea84cd67415c12440cea94741f4c83f6856bd07ab5fb4333"
 metafile = true
 
 [[files]]
