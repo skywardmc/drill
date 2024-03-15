@@ -254,6 +254,11 @@ hash = "712ac79bb4012b906355269fa28ac92c1cae6bf37b43a4dcd1320f98a323b4b2"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "05d0e850daf807b1c03d1aef84ba0bb5c91256707fede34f22070a2a7810b944"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
