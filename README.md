@@ -19,7 +19,7 @@ Drill is a simple (yet complex) neoforge **OptiFine alternative** modpack. It ha
 
 Need improved performance or features? Use the better version of this pack, [Additive](https://modrinth.com/modpack/additive), built for modern loaders such as Fabric and Quilt with much wider compatibility and higher framerates. Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
 
-Want to use a simple neoforge performance pack? Use [Hammer](https://modrinth.com/modpack/hammer), the pack based on Adrenaline.
+Want to use a simple forge performance pack? Use [Hammer](https://modrinth.com/modpack/hammer), the pack based on Adrenaline.
 
 ## 📥 Installation guide
 
@@ -49,7 +49,7 @@ To see the full list of OptiFine features, check out [this wiki page](https://gi
 
 ### 💡 Other features
 
-Additive and Drill contain a very small amount of non-OptiFine features - mainly being small fixes, such as [EmuNO](https://modrinth.com/mod/emuno) and [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux). There's also [World Host](https://modrinth.com/mod/world-host) included, which lets you host your world to the public by simply clicking "Open Externally" in the pause menu. [Borderless Mining](https://modrinth.com/mod/borderless-mining) is tucked away for convenience, disabled by default, but you can enable it in the mod menu. For the full list, check out the [Extra features](https://github.com/intergrav/Additive/wiki/Extra-features) wiki page.
+Additive and Drill contain a very small amount of non-OptiFine features - mainly being small fixes, such as [EmuNO](https://modrinth.com/mod/emuno) and [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux). <!-- There's also [World Host](https://modrinth.com/mod/world-host) included, which lets you host your world to the public by simply clicking "Open Externally" in the pause menu. -->[Borderless Mining](https://modrinth.com/mod/borderless-mining) is tucked away for convenience, disabled by default, but you can enable it in the mod menu. For the full list, check out the [Extra features](https://github.com/intergrav/Additive/wiki/Extra-features) wiki page.
 
 ## ❓ Why this over OptiFine?
 
