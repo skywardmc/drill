@@ -5,5 +5,5 @@ cd "$(dirname "$(realpath "$0")")"
 set -e
 
 rm -rf ./mods/*
-cp mods_forge/* mods_fabric/* mods
+cp mods_neoforge/* mods_fabric/* mods
 packwiz refresh
