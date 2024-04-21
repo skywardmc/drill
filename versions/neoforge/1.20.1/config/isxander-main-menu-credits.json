@@ -1,5 +1,5 @@
 {
   "main_menu": {
-    "top_left": [{"text":"Drill 0.5.0-1.24.3","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/drill"}}]
+    "top_left": [{"text":"Drill 0.6.0-1.25.0","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/drill"}}]
   }
 }
