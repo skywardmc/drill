@@ -130,12 +130,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
+hash = "65879bdbfabde6902e5ba375d9f844000b19c95ec22b4da4cb95a675b27d533c"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "1f7c4ecaefd80cbe77ebd906bb38c8f0ed9ae3bf8310579b4f7f109a75a9e4e8"
+hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8a0e88c1e6c4fa8f0737d8f8ac818a9699bb2a5a540023a2fa09f191ccfb1e11"
+hash = "7a9742b032332f9f572d5d39c492a4bdfce76bb60ff1ffeb90d804eb6f5ca629"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "17ec2654b56474c47aad1e3f0a107b610c8304d10126383e1e316a15315fcca4"
+hash = "0aeb17352702d4ed120375bc742e864c5257dda92541e830da67aaebe42f06dd"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e8a50f5fcc69f7af524baf6e46b6b88c5493acc1b933a97bdaa4c751c5f95053"
+hash = "9aba20a5a746f7b352f1ed67739dd81c984e54bbb156651c4b4913f11cbef515"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "93ab2185e079b85a447cc8447b02093dd5960f5660ef511149cba9412dfd1f29"
+hash = "8e10aefb1493e183a40ae463dcf01c3a3640d390aaa280b8a48331d521f161a7"
 metafile = true
 
 [[files]]
@@ -250,12 +250,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "183e835602c61d113581a015511c2241cad18d5650a17c0da3c689e75b9ef47c"
+hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "05d0e850daf807b1c03d1aef84ba0bb5c91256707fede34f22070a2a7810b944"
+hash = "9473ccac0c0303ce125f8378e7bca91477e5ce47aa4920b1e89e402a3a16176f"
 metafile = true
 
 [[files]]
@@ -275,12 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "86a13c12755ef37944dc6182808eed7a1f82cd0bb41cfb390e3f2bd4ef29e20c"
-metafile = true
-
-[[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
+hash = "9997cb8bf8582994a88444c7c2db5ef8eb25d3adeabf9d66772f4ec720303730"
 metafile = true
 
 [[files]]
@@ -290,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "3dabfca10eb4af5eea84cd67415c12440cea94741f4c83f6856bd07ab5fb4333"
+hash = "7257ace68a630112caabab0703d92fa3c8fb38ab2ba5c46a4dd361677e5cba13"
 metafile = true
 
 [[files]]
