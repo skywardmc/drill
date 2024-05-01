@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/loqui.pw.toml"
-hash = "fa0de9ccb48de8fa13f70939277314d3a538d3a71b88abe21197cb6a2189fd63"
+hash = "8e273299702b68a6503a2d4bd42a05b629a207d84e7fcb6e7510276ac16e0c89"
 metafile = true
 
 [[files]]

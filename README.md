@@ -1,3 +1,5 @@
+<!-- TODO: TBD: Finish copying Additive README -->
+
 <div align="center">
   <a href="https://github.com/SkywardMC/drill">
     <img src="https://raw.githubusercontent.com/skywardmc/art/main/drill/textlogo_256h.png" alt="Logo" height="100">
@@ -15,13 +17,11 @@
 > **Warning**
 > This pack is very experimental! For improved performance and compatiblity, it is much recommended to use [Adrenaline](https://modrinth.com/modpack/adrenaline) or [Additive](https://modrinth.com/modpack/additive) over this pack. Those packs, unlike this one, are made for Fabric and Quilt. They have more performance improvements and update faster too.
 
-Drill is a simple (yet complex) neoforge **OptiFine alternative** modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more.
-
-Need improved performance or features? Use the better version of this pack, [Additive](https://modrinth.com/modpack/additive), built for modern loaders such as Fabric and Quilt with much wider compatibility and higher framerates. Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
+Drill is a modpack designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and [much more](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine). It also includes a small amount of [extra features](https://github.com/intergrav/Additive/wiki/Extra-features), such as input fixes for MacOS and Linux along with a free and easy-to-use world hosting feature. This modpack is built and kept in sync with my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline), a lighter alternative without the quality-of-life mods. Want your own mods that aren't included in Additive? Don't worry! You can easily add your favorite mods after installation.
 
 Want to use a simple forge performance pack? Use [Hammer](https://modrinth.com/modpack/hammer), the pack based on Adrenaline.
 
-## 📥 Installation guide
+# 📥 Installation guide
 
 If you would like to install the modpack, go to this page on [the website](https://additive.intergrav.xyz/downloads). After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Additive/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
 
@@ -57,7 +57,7 @@ OptiFine used to be the go-to solution for enhancing performance in Minecraft an
 
 For a full list of currently supported features, see this [wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
 
-## 🛡️ Source-available
+### 🛡️ Source-available
 
 At its core, Additive and Drill are entirely composed of open-source and source-available mods, ensuring that you can view their source code or contribute to them. We strongly encourage you to show your support for the creators and contributors of these mods, as this project would not be possible without their invaluable work.
 
@@ -79,17 +79,17 @@ My goal is to keep Drill up-to-date with the latest Minecraft releases (that hav
 
 Additive and Drill utilize a variety of optimization mods that are designed to work seamlessly together. Some of these mods config files have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective. To replicate the features of OptiFine, Additive and Drill use mods such as LambDynamicLights, LambdaBetterGrass, Zoomify, Iris, CIT resewn, and many others.
 
-## 🐛 Reporting Issues
+# 🐛 How to Report Issues
 
 Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/skywardmc/drill/issues). Sometimes this may be an issue with Additive/Adrenaline and not Drill itself, so I will move the issue accordingly if needed.
 
-## ❓ Frequently Asked Questions
+# ❓ Frequently Asked Questions
 
-For a few frequently asked questions, please visit the [Additive wiki](https://github.com/intergrav/Additive/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
+For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://github.com/intergrav/Additive/wiki). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
 
-## 🍉 Sponsor
-Need a fast, reliable Minecraft server? Use the code `devin` for 25% off your first month of any server from Bisect Hosting, supporting him in the process. Click this banner for more information. You can also setup the server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
+# 🍉 Sponsor
+Need a fast, reliable Minecraft server? Feel free to use the code `devin` for 25% off your first month of any server from Bisect Hosting, supporting him in the process. Click this banner for more information. You can also setup his server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
 
-> *This description was copied from the [Modrinth page](https://modrinth.com/modpack/drill). It may not be formatted correctly.*
+> *Drill's description is heavily inspired by [Sodium](https://modrinth.com/mod/sodium)'s description and also includes some information from them. Description last updated: March 25, 2024*
