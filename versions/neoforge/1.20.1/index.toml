@@ -6,7 +6,7 @@ hash = "d619022556cc9c7d666ede212e92c9a88c909266835da9c7f9107ed5b8e76c4f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "31722cd464bf00f99e18de8009d7455ebb09673af2b612fe7c461e0e2c69228d"
+hash = "0380bc73ed202ccdbca102d7e2d8307539a7d321407e86d250b1fdcd6d72b13d"
 
 [[files]]
 file = "config/puzzle.json"
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "0aeb17352702d4ed120375bc742e864c5257dda92541e830da67aaebe42f06dd"
+hash = "d59d1e744ce12d491eb37ea26ef1ed3a80501c4e6b13915e8b2e2be02cd20cc5"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "31689f28d9a1866d3892e8b0776ee140fdcbb5502a1fa135467783d6408e7b9f"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0db2f608953079eded5964798fcb5f29d066abe955b26a529fcb73cbddae0b5c"
+hash = "1be16856c6ca81567ccdff66b522f8056c1f8741427fa16ee7f984f06bddfe02"
 metafile = true
 
 [[files]]
