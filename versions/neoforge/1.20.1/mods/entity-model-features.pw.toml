@@ -1,13 +1,13 @@
 name = "Entity Model Features [CEM]"
-filename = "entity_model_features_forge_1.20.1-2.0.2.jar"
+filename = "entity_model_features_forge_1.20.1-2.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/nYfJt8sH/entity_model_features_forge_1.20.1-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/7Jih1uiK/entity_model_features_forge_1.20.1-2.1.3.jar"
 hash-format = "sha1"
-hash = "3769da54243cb7e815fc63de1b53e8fda7de0f73"
+hash = "85a5ef77f8bfe6f6b9dad9c94912252849d3dc2a"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "nYfJt8sH"
+version = "7Jih1uiK"
