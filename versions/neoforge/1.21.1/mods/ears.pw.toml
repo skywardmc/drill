@@ -1,0 +1,13 @@
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-neoforge-1.21-1.4.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/qbgli4xy/ears-neoforge-1.21-1.4.6.jar"
+hash-format = "sha512"
+hash = "c732b418d344543d8efe0c4662520c1fb12f6fe2b2c2e4f10399defcbe17b0642e1c4a3e0526267219703781bbd977666512ec92f3053c352889bab4e4d27681"
+
+[update]
+[update.modrinth]
+mod-id = "mfzaZK3Z"
+version = "qbgli4xy"

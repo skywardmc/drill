@@ -1,0 +1,5 @@
+{
+  "main_menu": {
+    "top_left": [{"text":"Drill xxxxxxx","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/drill"}}]
+  }
+}
