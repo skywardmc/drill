@@ -1,5 +1,0 @@
-{
-  "main_menu": {
-    "top_left": [{"text":"Drill 0.6.0-1.25.1","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/drill"}}]
-  }
-}
