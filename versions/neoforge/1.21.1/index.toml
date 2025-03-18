@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "7358c9456074d2f7fbfab143ebe48aa6890530875cbfb11c991eea7e2bb27c48"
+hash = "9f05c3b4972b57402649c5f81deee03e24c425dda801c413261ce2867dc8b768"
 metafile = true
 
 [[files]]
@@ -241,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "337eaef4f0cb6806463510c64a2de777a8a6c396d9855a26231d6a111caa05a2"
+hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
+hash = "e39fea44e8f1b91ef0825d7ddfe1b5da7173439c1b23a4291c46542d2c39330c"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9715936f0099bb90db85bda7f266d9f1dd86790c4e1ec901cf4b1b26ad9a29af"
+hash = "0f8ef8739f938f0dd0a7825e6b72e3414a6cf93f52703df6794ec71c35a7caf9"
 metafile = true
 
 [[files]]
@@ -371,10 +371,10 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b44abcfeb35fbff7ee62fee2e303d97c3c33af8d1e1b81327a3ca650bbfad3f6"
+hash = "805ebde44c00aeb3cf51d6c5c3da3236821152363a8c087cb135c1c580d5afad"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "597855edd33ebccfdf3aea7b3f68092d4c09182a2478807d573dc60ed5ff3109"
+hash = "e439eec55400be4a7d2b7434239a1a04e769c65a8e3749857dbdcb272656a610"
 metafile = true
