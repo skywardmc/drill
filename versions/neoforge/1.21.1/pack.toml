@@ -1,6 +1,6 @@
 name = "Drill"
 author = "SkywardMC"
-version = "xxxxxx.neoforge"
+version = "0.7.0-1.34.0+1.21.1.neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "f4eacb7a237f58943ab8f79dd6c05675aa073c621c39a311f2b786cf6dcd7557"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.129"
+neoforge = "21.1.133"
