@@ -115,8 +115,8 @@ hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "bc7d7fae4dadafa2943454b3441a0e3d707ac6df4ac2630e1a66c00a19597051"
+file = "mods/c2me-neoforge.pw.toml"
+hash = "6789ad2958a2dc2ea1b45c3eae624f4535eac9475b03c3f496fde07debbcb178"
 metafile = true
 
 [[files]]
