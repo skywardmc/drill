@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "af3c56d02f9748ad0793dda5ca34d5d4e497e475da359b45643a0d4e7c13eaa7"
+hash = "8384bc4ed9a28e55cb6501296731f16ba95e889971d13397179642994ac8d25e"
 
 [[files]]
 file = "configureddefaults/config/NoChatReports/NCR-Client.json"
@@ -51,10 +51,6 @@ hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 [[files]]
 file = "configureddefaults/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
-file = "configureddefaults/config/immediatelyfast.json"
-hash = "d846a65a84ea05340d1c1dd9ffe2860f36dc21f9b04599845778f9c762d79f9c"
 
 [[files]]
 file = "configureddefaults/config/iris.properties"
