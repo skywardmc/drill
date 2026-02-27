@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"prettier": "^3.7.4",
+		"prettier-plugin-properties": "^0.3.0",
+		"prettier-plugin-toml": "^2.0.6"
+	},
+	"prettier": {
+		"trailingComma": "none",
+		"useTabs": true,
+		"plugins": [
+			"prettier-plugin-toml",
+			"prettier-plugin-properties"
+		]
+	}
+}

@@ -1,13 +1,13 @@
 name = "MacOS Input Fixes"
-filename = "macos-input-fixes-1.8.jar"
+filename = "macos-input-fixes-1.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/x9BrsVME/versions/hnMq6hXm/macos-input-fixes-1.8.jar"
+url = "https://cdn.modrinth.com/data/x9BrsVME/versions/LJz2SKJJ/macos-input-fixes-1.11.jar"
 hash-format = "sha512"
-hash = "1544d01a0f2370a90fcff3a81afce77b34e3713959723c1c48ddfc9fd269539fe4b717006b582a98444b99b70116a83c0016ef7b0dd0a216f28f8f8f74dc9e55"
+hash = "167d6cc307895841ec8d2c07b7fdcb6d6792edcbcfa71c7a642717ef898149093bc72ad669d5dacc0a06dac29bd597aa4bc41458bb27849fffb4c58d6196ac8b"
 
 [update]
 [update.modrinth]
 mod-id = "x9BrsVME"
-version = "hnMq6hXm"
+version = "LJz2SKJJ"

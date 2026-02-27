@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib"
-filename = "yet_another_config_lib_v3-3.6.5+1.21.1-neoforge.jar"
+filename = "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/XoVxAvc2/yet_another_config_lib_v3-3.6.5%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "d1bafa78763d1ebf67d4c938dd605efc29b01fc59e0a17280dc87952f57e5b5a0f9b6d9a8c480f0af77f7da6d54670fba51c77523813a315541a36d4493013df"
+hash = "353169f85fa63e73ce9bdd0d4ddce54e3cbc4d71153a93c982f74c68fd93325986663f94fc2f2b10f4427e8b15a0485c608c5587b3840d933204b50ea4cb6d4c"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "XoVxAvc2"
+version = "o3cDn8Vp"

@@ -1,13 +1,13 @@
 name = "World Host"
-filename = "world-host-0.5.1+1.21.1-neoforge.jar"
+filename = "world-host-0.5.2+1.21.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2AIZDfYo/versions/SlPlEm14/world-host-0.5.1%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/2AIZDfYo/versions/blBlWzm7/world-host-0.5.2%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "151d6aac70b73829a5e9d8ddf0131381d5c75310cafa74d43e1cf4fd0fe69c7a63ca036a0cfe899c49e384308c3ce3e2e5a2248b4a37b966b78edc65c8d03df2"
+hash = "6feb4506e32c5332d762d5a7256dbfcad07d9dee054c6c3d2c8b81b3dfc900029e1e45fd15be880dcc622ff957c1fa25aa45f4f522431fd79e9db09d6080b8ec"
 
 [update]
 [update.modrinth]
 mod-id = "2AIZDfYo"
-version = "SlPlEm14"
+version = "blBlWzm7"
