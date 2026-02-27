@@ -266,11 +266,6 @@ hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
-metafile = true
-
-[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "533cc65290311d51c42bfa7a5a700254db6401ae5a90829fb7863b17db9665d1"
 metafile = true
@@ -308,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
-file = "mods/renderscale.pw.toml"
-hash = "fbd9ee844f108cd335a61422ee7e9d46ae509272306781c4b38a30a17bf6c218"
 metafile = true
 
 [[files]]

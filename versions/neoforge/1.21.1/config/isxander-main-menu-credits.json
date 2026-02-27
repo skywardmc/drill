@@ -1,8 +1,8 @@
 {
 	"main_menu": {
-		"bottom_left": [
+		"bottom_right": [
 			{
-				"text": "Additive 1.41.4"
+				"text": "Drill 1.0.0 for 1.21.1"
 			}
 		]
 	}
