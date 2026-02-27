@@ -1,6 +1,6 @@
 {
 	"main_menu": {
-		"bottom_right": [
+		"top_left": [
 			{
 				"text": "Drill 1.0.0 for 1.21.1"
 			}
