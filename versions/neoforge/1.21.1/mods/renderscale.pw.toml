@@ -1,13 +1,13 @@
 name = "RenderScale"
-filename = "renderscale-fabric-1.21.1-1.3.5.jar"
+filename = "renderscale-neoforge-1.21.1-1.3.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Va8PJBFX/versions/ZWmqE30v/renderscale-fabric-1.21.1-1.3.5.jar"
+url = "https://cdn.modrinth.com/data/Va8PJBFX/versions/Y7rNAruy/renderscale-neoforge-1.21.1-1.3.5.jar"
 hash-format = "sha512"
-hash = "2013fee69c3d4da55c9966f7410c9ba4b297a377f98fd55d6f6af663424a37fa194bfd171beb778125f3415a4b7937bed96adaa6e6a580d9f9dc08d5a17c0017"
+hash = "c60b93cf6fb437e3868f269301d49140193b380c689ba513d5c6dcba88f31b63bc67cad11949e430fb35e7f3debb15440bebfb2bd6558cde79dc79d00a40df06"
 
 [update]
 [update.modrinth]
 mod-id = "Va8PJBFX"
-version = "ZWmqE30v"
+version = "Y7rNAruy"
