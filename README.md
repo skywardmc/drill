@@ -83,10 +83,6 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 
 For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://github.com/intergrav/Additive/wiki). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
 
-# Updates?
-
-Recently, updates to Drill have been sparse due to limited time on my end. I try to do the best I can, but it isn't enough here. However, Drill is not discontinued.
-
 # 🍉 Sponsor
 
 Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my client/server performance pack [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
