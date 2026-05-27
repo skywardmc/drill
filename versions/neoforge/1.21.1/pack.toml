@@ -1,13 +1,13 @@
 name = "Drill"
 author = "SkywardMC"
-version = "1.0.0+mc1.21.1.neoforge"
+version = "26.1+mc1.21.1.neoforge"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bbf70c8b7b64486817fa4fd44acde7f3a68d4ba38ad36aa24fc2827352733040"
+hash = "71c2065c1856a11ec126a74c89b53ad5dff8d6c7fb7e3ca683a02e240e8896cd"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.219"
+neoforge = "21.1.230"
